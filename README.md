@@ -1,7 +1,7 @@
 
-# ASCII Art Web Server - Docker Support
+# ASCII Art Web Server - Export File
 
-![image](https://o365.vn/wp-content/uploads/how-to-export-power-bi-excel.jpeg)
+![image](https://fiverr-res.cloudinary.com/images/t_main1,q_auto,f_auto,q_auto,f_auto/gigs/281772448/original/1f3067c785cb1a86a549a2f30dcd2eb636050e9e/do-ms-excel-projects-for-necessary-for-data-analysis.jpg)
 
 ## Description
 
@@ -48,8 +48,8 @@ We have provided scripts to build and remove Docker images and containers for th
 - Clone the repository:
 
 `` `bash
-git clone https://learn.zone01kisumu.ke/git/bbantu/ascii-art-web-dockerize
-cd ascii-art-web-dockerize
+git clone https://learn.zone01kisumu.ke/git/bbantu/ascii-art-web-export-file
+cd ascii-art-web-export-file
 ```
 - Build the Docker image:
 

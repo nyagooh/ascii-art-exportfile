@@ -157,3 +157,9 @@ pre {
     max-height: 50vh; /* Adjust max-height for landscape mode */
   }
 }
+#download-form {
+  display: inline-block;
+  justify-content: center;
+  align-items: center;
+  height: 100vh; 
+}

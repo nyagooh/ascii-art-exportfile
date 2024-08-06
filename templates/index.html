@@ -27,8 +27,8 @@
         {{if .Success}}
         <h3>Processed ASCII Art:</h3>
         <pre>{{.Result}}</pre>
-        <form method="GET"  action= "/export">
-            <button type="Download">Download</button>
+        <form id="download-form" method="GET" action="/export">
+            <button type="submit">Download</button>
         </form>
         {{end}}
     </div>

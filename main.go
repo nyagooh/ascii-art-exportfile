@@ -16,6 +16,7 @@ func main() {
 	http.HandleFunc("/", handlers.Request)
 	http.HandleFunc("/ascii-art", handlers.Post)
 	http.HandleFunc("/error", handlers.ErrorHandler)
+	http.HandleFunc("/export",handlers.ErrorHandler)
 
 	fs := http.FileServer(http.Dir("./static"))
 	http.Handle("/static/", http.StripPrefix("/static/", fs))
